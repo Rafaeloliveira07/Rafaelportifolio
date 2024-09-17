@@ -1,0 +1,27 @@
+:root{
+    --1:;
+    --2:;
+    --3:;
+    --3:;
+}
+
+*{
+    margin: 0em;
+    padding: 0em;
+}
+
+body{
+    padding: 0.62em;
+}
+
+main{
+    background-color: aqua;
+    border-radius: 0.62em;
+    min-width: 25em;
+    max-width: 50em;
+    margin: auto;
+}
+
+main > h1{
+    text-align: center;
+}
